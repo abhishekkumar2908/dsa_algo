@@ -1,6 +1,6 @@
 /*
-    Given array for numbers and array for indexes for queries
-    to return sum of the numbers in the array ranging from ith index to i+1th index
+    Given two arrays, first for numbers and second array  for indexes for queries ( (a,b) => a is queries[i] and b is queries[i+1])
+    to return sum of the numbers in the range of a and b
 */
 
 class Solution {
